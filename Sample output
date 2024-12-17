@@ -1,0 +1,14 @@
+Epoch 1/50
+100/100 [==============================] - 5s 25ms/step - loss: 0.0152 - val_loss: 0.0128
+Epoch 2/50
+100/100 [==============================] - 2s 20ms/step - loss: 0.0105 - val_loss: 0.0091
+...
+Epoch 50/50
+100/100 [==============================] - 2s 19ms/step - loss: 0.0031 - val_loss: 0.0048
+Test Loss: 0.0047
+Sample Index	Actual Temperature	Predicted Temperature
+  1	            28.5°C	            28.7°C
+  2           	29.0°C              28.9°C
+  3	            30.2°C	            30.1°C
+  4	            27.8°C	            27.9°C
+  5	            28.1°C	            28.3°C
